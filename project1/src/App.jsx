@@ -1,9 +1,9 @@
-import Setup from "./tutorial/sample";
+import UseStateObject from "./tutorial/sample";
 function App() {
   return (
     <div className='container'>
       <h2>Sample</h2>
-     <Setup/> 
+     <UseStateObject/> 
     </div>
   );
 }
