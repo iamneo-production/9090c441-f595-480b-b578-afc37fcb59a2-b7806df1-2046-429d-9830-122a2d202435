@@ -1,4 +1,4 @@
-import Setup from "./sample";
+import Setup from "./tutorial/sample";
 function App() {
   return (
     <div className='container'>
